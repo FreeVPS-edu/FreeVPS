@@ -18,4 +18,4 @@ We welcome contributions!
 If you’d like to improve tutorials, share new scripts, or fix issues, feel free to open a pull request.
 
 ## 📩 Contact
-Visit us: [https://freevps.edu.pl](https://freevps.edu.pl)  
+Visit us: [Free VPS](https://freevps.edu.pl)  
